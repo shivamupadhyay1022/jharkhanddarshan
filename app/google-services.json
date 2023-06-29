@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "598223369543",
+    "firebase_url": "https://solaris-jharkhanddarshan-default-rtdb.firebaseio.com",
+    "project_id": "solaris-jharkhanddarshan",
+    "storage_bucket": "solaris-jharkhanddarshan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598223369543:android:d2b1eb6551d2a0197a4862",
+        "android_client_info": {
+          "package_name": "com.kazimasum.newsdemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598223369543-qumu6d938phovt5d8c6dqqrtdemo5kf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7yuYimYwq-BbcAt9HV0bjSv7KQpuOH7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598223369543-qumu6d938phovt5d8c6dqqrtdemo5kf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598223369543:android:3a3577821a2e71a87a4862",
+        "android_client_info": {
+          "package_name": "com.su.jharkhanddarshan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598223369543-qumu6d938phovt5d8c6dqqrtdemo5kf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7yuYimYwq-BbcAt9HV0bjSv7KQpuOH7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598223369543-qumu6d938phovt5d8c6dqqrtdemo5kf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
